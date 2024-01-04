@@ -1,4 +1,5 @@
-# Community Parcel Locker
+# Assignment
+## Community Parcel Locker
 
 To enhance the convenient lifestyle of community living, the management of Boulevard Service Apartment decided to use the service of community parcel lockers for its residents. Three blocks of lockers are placed at the guard house to enable apartment residents to collect their parcels at their own convenience. For receiving the PIN code to collect parcel, each apartment unit is required to register to a centralised system with their apartment unit number, owner’s full name, contact number and password to login to the centralised system.
 
